@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🌸 hiii, i'm Semire Ajayi aka. Serenity
 
-<!--
-**serenebliss0/serenebliss0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A Computer Science student @ **Pan-Atlantic University**  
+💻 currently exploring the art (and madness) of **C#**, **Rust**, and **R**  
+☕ powered by curiosity, caffeine, and a little bit of chaos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ about me
+i like solving problems, building things that (eventually) work, and learning literally everything.  
+when i'm not coding, i’m reading, writing, learning Illustrator, After Effects, 3D Modeling in blender, Phtoshop, Premiere Pro, or just vibing with music.  
+
+---
+
+### 🧠 currently
+- learning more about processes and threads
+- experimenting with creative coding projects  
+- trying not to break my code (again 😅)  
+
+---
+
+### 🛠️ tools i use
+`C#` • `Rust` • `RStudio` • `PostgreSQL` • `Python` • `Git` • `VS Code`  
+
+---
+
+### 📊 github stats
+![Serenity's GitHub stats](https://github-readme-stats.vercel.app/api?username=serenebliss0&show_icons=true&theme=tokyonight)
+
+---
+
+> “progress, not perfection.” 🌷💖
