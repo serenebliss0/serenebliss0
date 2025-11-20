@@ -1,7 +1,7 @@
 # 🌸 hiii, i'm Semire Ajayi aka. Serenity
 
 🎓 A 1st Year, Computer Science student @ **Pan-Atlantic University**  
-💻 currently exploring the art (and madness) of **C#**, **Rust**, and **R**  
+💻 currently exploring the art (and madness) of **C#**, **Rust**, and **C**  
 ☕ powered by curiosity, caffeine, and a little bit of chaos  
 
 ---
@@ -20,7 +20,7 @@ when i'm not coding, i’m reading, writing, learning Illustrator, After Effects
 ---
 
 ### 🛠️ tools i use
-`C#` • `Rust` • `RStudio` • `PostgreSQL` • `Python` • `Git` • `VS Code`  
+`C#` • `Rust` • `PostgreSQL` • `Python` • `Git` • `VS Code` • and the `Arduino IDE` 
 
 ---
 
