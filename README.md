@@ -8,7 +8,7 @@
 
 ### ✨ about me
 i like solving problems, building things that (eventually) work, and learning literally everything.  
-when i'm not coding, i’m reading, writing, learning Illustrator, After Effects, 3D Modeling in blender, Phtoshop, Premiere Pro, or just vibing with music.  
+when i'm not coding, i’m reading, writing, learning Illustrator, After Effects, 3D Modeling in blender, Photoshop, Premiere Pro, or just vibing with music.  
 
 ---
 
