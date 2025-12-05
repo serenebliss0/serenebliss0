@@ -28,7 +28,9 @@ when i'm not coding, i’m reading, writing, learning Illustrator, After Effects
 ![Serenity's GitHub stats](https://github-readme-stats.vercel.app/api?username=serenebliss0&show_icons=true&theme=tokyonight)
 
 ### 📌 top languages
-![Top Langs](https://img.shields.io/github/languages/top/serenebliss0?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-100%25-blue?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-50%25-orange?style=for-the-badge)
+
 
 ---
 
