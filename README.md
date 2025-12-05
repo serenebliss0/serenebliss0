@@ -27,6 +27,10 @@ when i'm not coding, i’m reading, writing, learning Illustrator, After Effects
 ### 📊 github stats
 ![Serenity's GitHub stats](https://github-readme-stats.vercel.app/api?username=serenebliss0&show_icons=true&theme=tokyonight)
 
+### 📌 top languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serenebliss0&layout=compact&theme=tokyonight)
+
 ---
 
 > “progress, not perfection.” 🌷💖
+> Reach me at `oluwasemire.ajayi@pau.edu.ng` for any questions, or just a quick chat. I'm available every weekday : )
