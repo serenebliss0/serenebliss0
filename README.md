@@ -13,7 +13,7 @@ when i'm not coding, i’m reading, writing, learning Illustrator, After Effects
 ---
 
 ### 🧠 currently
-- learning more about `How Databases work`, `Arduinos` and `Rust`
+- learning more about `Data Structures`, `C++` and `Assembly Language`
 - experimenting with creative coding projects  
 - trying not to break my code (again 😅)  
 
