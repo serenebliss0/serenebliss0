@@ -1,6 +1,7 @@
 # 🌸 hiii, i'm Semire Ajayi aka. Serenity
 
 🎓 A 1st Year, Computer Science student @ **Pan-Atlantic University** 🇳🇬
+
 💻 currently exploring the art (and madness) of **C#**, **Rust**, and **C++**  
 ☕ powered by curiosity, caffeine, and a little bit of chaos  
 
