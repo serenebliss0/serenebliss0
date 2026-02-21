@@ -14,14 +14,14 @@ when i'm not coding, i'm reading, writing poems, learning Illustrator, After Eff
 ---
 
 ### 🧠 currently
-- learning more about `Data Structures`, `C++` and `Databases`
+- learning more about `Electronics`, `C++` and `Internet of Things (IoT)`
 - experimenting with creative coding projects  
 - trying not to break my code (again 😅)  
 
 ---
 
 ### 🛠️ tools i use
-`C#` • `Rust` • `PostgreSQL` • `Python` • `Git` • `VS Code` • and the `Arduino IDE` 
+`C#` • `Rust` • `PostgreSQL` • `Python` • `Git` • `VS Code` • and `PlatformIO` 
 
 ---
 
