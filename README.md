@@ -26,7 +26,7 @@ when i'm not coding, i'm reading, writing poems, learning Illustrator, After Eff
 ---
 
 ### 📊 github stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/serenebliss0?cardType=level-alternate&theme=vision-friendly-dark&fontFamily=Montserrat&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 ### 📌 top languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serenebliss0&layout=compact&theme=tokyonight)
