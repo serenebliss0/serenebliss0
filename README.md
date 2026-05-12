@@ -14,7 +14,7 @@ when i'm not coding, i'm reading, writing poems, learning Illustrator, After Eff
 ---
 
 ### 🧠 currently
-- learning more about `Electronics`, `C++` and `Internet of Things (IoT)`
+- learning more about `Electronics`, `C++` and `APIs`
 - experimenting with creative coding projects  
 - trying not to break my code (again 😅)  
 
