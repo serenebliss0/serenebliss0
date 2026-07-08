@@ -2,7 +2,7 @@
 
 🎓 A 1st Year, Computer Science student @ **Pan-Atlantic University** 🇳🇬
 
-💻 currently exploring the art (and madness) of **C#**, **Rust**, and **C++**  
+💻 currently exploring the art (and madness) of **Flutter**, **Rust**, and **C++**  
 ☕ powered by curiosity, caffeine, and a little bit of chaos  
 
 ---
