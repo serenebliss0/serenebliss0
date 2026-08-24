@@ -1,8 +1,8 @@
 # 🌸 hiii, i'm Semire Ajayi aka. Serenity
 
-🎓 A 1st Year, Computer Science student @ **Pan-Atlantic University** 🇳🇬
+🎓 A 2nd Year, Computer Science student @ **Pan-Atlantic University** 🇳🇬
 
-💻 currently exploring the art (and madness) of **Flutter**, **Rust**, and **C++**  
+💻 currently exploring the art (and madness) of **Flutter**, **C++**, and **C**  
 ☕ powered by curiosity, caffeine, and a little bit of chaos  
 
 ---
@@ -14,7 +14,7 @@ when i'm not coding, i'm reading, writing poems, learning Illustrator, After Eff
 ---
 
 ### 🧠 currently
-- learning more about `Electronics`, `C++` and `APIs`
+- learning more about `Embedded Systems`, `C++` and `Mobile Applications`
 - experimenting with creative coding projects  
 - trying not to break my code (again 😅)  
 
